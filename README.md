@@ -1,4 +1,4 @@
-#  Cpastone_Project
+#  Capstone_Project
 
 ### Inventory Management System 
 
@@ -9,34 +9,34 @@ Create a dynamic and responsive .Net Angular E- Inventory management web applica
 
  
 
-Two portals should be there Admin and User 
+#### Two portals should be there Admin and User 
 
-For Admin Portal:  
+## For Admin Portal:  
 
-Log On Screen 
+1.Log On Screen 
 
-View List of Inventories 
+2.View List of Inventories 
 
-View List of Categories 
+3.View List of Categories 
 
-Create new Category 
+4.Create new Category 
 
-Add new inventory in category with name, price, quantity, seller, description 
+5.Add new inventory in category with name, price, quantity, seller, description 
 
-Update existing inventory 
+6.Update existing inventory 
 
-Take reports of each category 
+7.Take reports of each category 
 
-For User Portal: 
+## For User Portal: 
 
-Log on 
+1.Log on 
 
-Register in the application if not done 
+2.Register in the application if not done 
 
-Search through different inventories available in each category 
+3.Search through different inventories available in each category 
 
-View list of inventories 
+4.View list of inventories 
 
-View list of categories 
+5.View list of categories 
 
-Take reports of each category. 
+6.Take reports of each category. 
